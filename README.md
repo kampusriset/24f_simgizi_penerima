@@ -38,3 +38,7 @@ Project ini dibuat sebagai kelengkapan tugas tengah semester genap mata kuliah P
     ├── index.php
     └── README.md
 ```
+kelompok 
+muhamad adrean alwatahn   {2413010682}-pembawa acara
+anggie vicko putro ullia w{2413010660}-pemrogram
+rajes arga buana s        {2413010675}-pemimpin
